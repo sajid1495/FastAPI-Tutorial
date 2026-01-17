@@ -48,25 +48,5 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
-    },
-    "P010": {
-        "name": "John Doe",
-        "city": "New York",
-        "age": 30,
-        "gender": "Male",
-        "height": 175.0,
-        "weight": 70.0,
-        "bmi": 22.86,
-        "verdict": "Normal"
-    },
-    "P011": {
-        "name": "John Doe",
-        "city": "New York",
-        "age": 30,
-        "gender": "Male",
-        "height": 175.0,
-        "weight": 70.0,
-        "bmi": 22.86,
-        "verdict": "Normal"
     }
 }
